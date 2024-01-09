@@ -1,0 +1,7 @@
+D:\КОД\ПР№12\ПР№12.2\PR_12.2\bin\Debug\PR_12.2.exe.config
+D:\КОД\ПР№12\ПР№12.2\PR_12.2\bin\Debug\PR_12.2.exe
+D:\КОД\ПР№12\ПР№12.2\PR_12.2\bin\Debug\PR_12.2.pdb
+D:\КОД\ПР№12\ПР№12.2\PR_12.2\obj\Debug\PR_12.2.csproj.AssemblyReference.cache
+D:\КОД\ПР№12\ПР№12.2\PR_12.2\obj\Debug\PR_12.2.csproj.CoreCompileInputs.cache
+D:\КОД\ПР№12\ПР№12.2\PR_12.2\obj\Debug\PR_12.2.exe
+D:\КОД\ПР№12\ПР№12.2\PR_12.2\obj\Debug\PR_12.2.pdb

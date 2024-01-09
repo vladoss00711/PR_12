@@ -1,0 +1,14 @@
+D:\Новая папка (2)\ПР№11\ПР№11\bin\Debug\ПР№11.exe.config
+D:\Новая папка (2)\ПР№11\ПР№11\bin\Debug\ПР№11.exe
+D:\Новая папка (2)\ПР№11\ПР№11\bin\Debug\ПР№11.pdb
+D:\Новая папка (2)\ПР№11\ПР№11\obj\Debug\ПР№11.csproj.AssemblyReference.cache
+D:\Новая папка (2)\ПР№11\ПР№11\obj\Debug\ПР№11.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\ПР№11\ПР№11\obj\Debug\ПР№11.exe
+D:\Новая папка (2)\ПР№11\ПР№11\obj\Debug\ПР№11.pdb
+D:\КОД\ПР№12\ПР№11\bin\Debug\ПР№11.exe.config
+D:\КОД\ПР№12\ПР№11\bin\Debug\ПР№11.exe
+D:\КОД\ПР№12\ПР№11\bin\Debug\ПР№11.pdb
+D:\КОД\ПР№12\ПР№11\obj\Debug\ПР№11.csproj.AssemblyReference.cache
+D:\КОД\ПР№12\ПР№11\obj\Debug\ПР№11.csproj.CoreCompileInputs.cache
+D:\КОД\ПР№12\ПР№11\obj\Debug\ПР№11.exe
+D:\КОД\ПР№12\ПР№11\obj\Debug\ПР№11.pdb
